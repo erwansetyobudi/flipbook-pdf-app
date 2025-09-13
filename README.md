@@ -44,31 +44,6 @@ Flipbook Library adalah aplikasi manajemen dokumen berbasis web yang dilengkapi 
 
 ---
 
-## 📂 Struktur Direktori
-
-```
-
-flipbook/
-├── admin/           # Panel admin (CRUD dokumen, jenis, setting)
-│   ├── index.php    # Dashboard
-│   ├── login.php    # Login admin
-│   ├── menus.php    # Sidebar menu
-│   ├── types.php    # Manajemen jenis dokumen
-│   ├── settings.php # Pengaturan sistem
-│   └── ...
-├── assets/          # Asset statis (CSS, JS, icon, cover placeholder)
-│   ├── vendor/      # AdminLTE, DearFlip, jQuery dll
-│   └── style.css
-├── uploads/         # File PDF & cover
-│   └── covers/
-├── config.php       # Konfigurasi DB & helper
-├── index.php        # Halaman depan (frontend katalog)
-├── view\.php         # Halaman baca dokumen (flipbook)
-└── README.md
-
-````
-
----
 
 ## ⚙️ Instalasi
 
