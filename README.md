@@ -92,6 +92,7 @@ Flipbook Library adalah aplikasi manajemen dokumen berbasis web yang dilengkapi 
      value TEXT
    );
    ```
+````
 
 3. Tambahkan akun admin:
 
@@ -99,7 +100,7 @@ Flipbook Library adalah aplikasi manajemen dokumen berbasis web yang dilengkapi 
    INSERT INTO users (username, password_hash)
    VALUES ('admin', '<?= password_hash("admin123", PASSWORD_BCRYPT) ?>');
    ```
-
+````
 4. Sesuaikan konfigurasi database di `config.php`.
 
 5. Pastikan folder `uploads/` dan `uploads/covers/` bisa ditulis (permission 775/777).
@@ -110,7 +111,7 @@ Flipbook Library adalah aplikasi manajemen dokumen berbasis web yang dilengkapi 
    http://localhost/flipbook
    http://localhost/flipbook/admin
    ```
-
+````
 ---
 
 ## 📖 Cara Pakai
