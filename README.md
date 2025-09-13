@@ -101,9 +101,9 @@ Flipbook Library adalah aplikasi manajemen dokumen berbasis web yang dilengkapi 
    VALUES ('admin', '<?= password_hash("admin123", PASSWORD_BCRYPT) ?>');
    ```
 ````
-4. Sesuaikan konfigurasi database di `config.php`.
+4. Sesuaikan konfigurasi database di config.php.
 
-5. Pastikan folder `uploads/` dan `uploads/covers/` bisa ditulis (permission 775/777).
+5. Pastikan folder uploads/ dan uploads/covers/ bisa ditulis (permission 775/777).
 
 6. Jalankan di browser:
 
