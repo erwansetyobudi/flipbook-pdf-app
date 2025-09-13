@@ -163,13 +163,7 @@ flipbook/
   * Form unggah dokumen.
   * Manajemen jenis & setting.
 
-<img width="1893" height="941" alt="image" src="https://github.com/user-attachments/assets/c6e04ff4-9ae2-4f38-acc1-9606e3e0fb68" />
-<img width="1917" height="948" alt="image" src="https://github.com/user-attachments/assets/08085ffa-b47c-433b-98eb-f2952bfc82d3" />
-<img width="1887" height="939" alt="image" src="https://github.com/user-attachments/assets/7d05249a-7c09-454c-a6f9-626d70676a99" />
-<img width="1919" height="941" alt="image" src="https://github.com/user-attachments/assets/ffbfb9f8-3e53-4fe2-a04b-02443fdee20f" />
-<img width="1913" height="890" alt="image" src="https://github.com/user-attachments/assets/ee213e34-e9b6-43c5-8ce7-c0a6af1a3995" />
-<img width="1908" height="936" alt="image" src="https://github.com/user-attachments/assets/b7e3bdbe-d2fe-4077-aa56-6d3c55b444c8" />
-<img width="1753" height="937" alt="image" src="https://github.com/user-attachments/assets/b971bf0d-b0f4-49bd-9044-8a58e7c65cf5" />
+
 
 ---
 
@@ -187,6 +181,14 @@ DearFlip yang digunakan bersifat **non-commercial lite version**.
 
 ---
 
+## Screenshoot
+<img width="1893" height="941" alt="image" src="https://github.com/user-attachments/assets/c6e04ff4-9ae2-4f38-acc1-9606e3e0fb68" />
+<img width="1917" height="948" alt="image" src="https://github.com/user-attachments/assets/08085ffa-b47c-433b-98eb-f2952bfc82d3" />
+<img width="1887" height="939" alt="image" src="https://github.com/user-attachments/assets/7d05249a-7c09-454c-a6f9-626d70676a99" />
+<img width="1919" height="941" alt="image" src="https://github.com/user-attachments/assets/ffbfb9f8-3e53-4fe2-a04b-02443fdee20f" />
+<img width="1913" height="890" alt="image" src="https://github.com/user-attachments/assets/ee213e34-e9b6-43c5-8ce7-c0a6af1a3995" />
+<img width="1908" height="936" alt="image" src="https://github.com/user-attachments/assets/b7e3bdbe-d2fe-4077-aa56-6d3c55b444c8" />
+<img width="1753" height="937" alt="image" src="https://github.com/user-attachments/assets/b971bf0d-b0f4-49bd-9044-8a58e7c65cf5" />
 ```
 
 ---
