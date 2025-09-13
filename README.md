@@ -1,6 +1,3 @@
----
-
-```markdown
 # 📚 Flipbook PDF App -- Web Based
 
 Flipbook Library adalah aplikasi manajemen dokumen berbasis web yang dilengkapi dengan fitur **unggah PDF**, **flipbook viewer (DearFlip)**, serta **dashboard admin (AdminLTE)** untuk mengelola dokumen, jenis dokumen, dan pengaturan sistem perpustakaan.
