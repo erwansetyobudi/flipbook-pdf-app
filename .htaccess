@@ -1,0 +1,11 @@
+# Prevent directory listing
+Options -Indexes
+
+
+# Basic caching for static
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresByType application/pdf A604800
+ExpiresByType text/css A604800
+ExpiresByType application/javascript A604800
+</IfModule>
